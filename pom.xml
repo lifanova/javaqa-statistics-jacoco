@@ -53,7 +53,6 @@
                         </goals>
                     </execution>
 
-                    <!--ограничиваем здесь минимальный показатель для покрытия линий до 50%-->
                     <execution>
                         <id>jacoco-check</id>
                         <phase>verify</phase>
